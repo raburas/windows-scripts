@@ -4,7 +4,7 @@ A PowerShell wrapper for `nvm-windows` to handle admin privileges in `C:\Program
 
 ## Purpose
 
-This script addresses issues with `nvm-windows` when installed in `C:\Program Files`, which requires admin privileges for commands like `use`, `install`, and `uninstall`. It prevents silent failures by auto-elevating PowerShell when needed. For a detailed explanation of the problem and solution, see my [Medium article](https://medium.com/@rustom.aburas/fixing-node-version-management-nvm-issues-on-windows-when-using-program-files).
+This script addresses issues with `nvm-windows` when installed in `C:\Program Files`, which requires admin privileges for commands like `use`, `install`, and `uninstall`. It prevents silent failures by auto-elevating PowerShell when needed. For a detailed explanation of the problem and solution, see my [Medium article](https://medium.com/@rustom.aburas/fixing-node-version-management-nvm-issues-on-windows-when-using-program-files-d1b51c0fc03b).
 
 ## Installation
 
